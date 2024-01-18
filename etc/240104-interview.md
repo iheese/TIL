@@ -1,3 +1,4 @@
 2024.01.04
 
-- interview and study
+- interview and study!
+- settng
